@@ -24,7 +24,7 @@ var twemoji = (function (
     /////////////////////////
 
       // default assets url, by default will be the OpenMoji GitHub repository served under Statically CDN
-      base: 'https://cdn.statically.io/gh/hfg-gmuend/openmoji/master/',
+      base: 'https://cdn.statically.io/gh/hfg-gmuend/openmoji/master/color/',
 
       // default assets file extensions, by default '.png'
       ext: '.png',
