@@ -560,7 +560,7 @@ var twemoji = (function (
         r.push(c.toString(16));
       }
     }
-    return r.join(sep || '-').toUppercase();
+    return (r.join(sep || '-')).toUppercase();
   }
 
 }());
